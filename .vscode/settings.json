@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    "[c]": {
+        "editor.defaultFormatter": "keyhr.42-c-format"
+    },
+    "files.autoSave": "afterDelay"
+}
